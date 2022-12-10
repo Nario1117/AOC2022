@@ -56,9 +56,6 @@ public class Day01 extends Day {
 			}
 			mainFood.put(y, finalFood);
 		}
-		//for (int i = 0; i < mainFood.size(); i++) {
-		//	System.out.println(mainFood.get(i));
-		//}
 		int sizeCheck = 0;
 		int sizeCheck1 = 0;
 		int sizeCheck2 = 0;
